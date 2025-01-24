@@ -67,8 +67,6 @@ pip install tensorflow numpy pandas matplotlib
 - Experiment with pre-trained models like BERT for comparison.
 - Deploy the model using a Flask or Streamlit app for real-time predictions.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 Developed by [Naimish Sharma](https://github.com/naimish75).
